@@ -18,3 +18,6 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 # Jandice Barov Model Check
 Shows a 3d model of Jandice Barov in Scholomance when targeting her, allowing easy detection of the one holding the white staff
 Click on the model to mark target with a skull
+
+# Weakauras
+[https://github.com/Bunny67/WeakAuras-WotLK](https://github.com/Bunny67/WeakAuras-WotLK)
