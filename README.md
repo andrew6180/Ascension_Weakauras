@@ -19,6 +19,11 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 Shows a 3d model of Jandice Barov in Scholomance when targeting her, allowing easy detection of the one holding the white staff
 Click on the model to mark target with a skull
 
+# Auto turn in chests and nests
+automatically turns in the highest key or bait for high risk chests / nests. 
+destroys the nest or chest if no keys or bait to use.
+
+
 # Block Loot Popup
 Blocks the loot / spell rank up notifications
 
