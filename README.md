@@ -15,6 +15,8 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 ![Options](https://i.imgur.com/B7wQE6D.png)
 ![Reforge Button](https://i.imgur.com/Gheq2y2.png)
 
+Also supports stopping on specific quality enchants (Uncommon / Rare / Epic / Legendary)
+
 # Jandice Barov Model Check
 Shows a 3d model of Jandice Barov in Scholomance when targeting her, allowing easy detection of the one holding the white staff
 Click on the model to mark target with a skull
