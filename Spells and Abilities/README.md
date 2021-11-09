@@ -2,10 +2,18 @@
 These are weakauras for specific spells, abilities, or stuff related to seplls & abilities
 
 # Cooldown (Power Infuse)
-This is a basic weakaura to track the cooldown of a spell. This is specifically setup for `Power Infusion` but you can change what spell it tracks under `Trigger -> Spell` and `Load -> Spell Known`. 
+This is a basic weakaura to track the cooldown of a spell. This is specifically setup for `Power Infusion`.
+
+you can change what spell it tracks under `Trigger -> Spell` and `Load -> Spell Known`. 
 
 **Modify this for any cd tracking. I'm not making dozens of these for each buff**
 
+# Group Buff Missing (Fortitude)
+this is a basic weakaura to track if you, **or anyone in your group** is missing a buff. This is specifically setup for `Power Word: Fortitude`. 
+
+You can change what spell it tracks under `Trigger -> Name(s)` and `Load -> Spell Known`. 
+
+Only active while in a party (change in `Load`)
 # Combo Points
 Simple combo point tracker. Fills left to right.
 
