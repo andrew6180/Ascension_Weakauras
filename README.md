@@ -1,3 +1,6 @@
+# Spells and Abiltiies
+See [Spells and Abilities](Spells%20and%20Abilities/)
+
 # Auto Learn From Book
 Automatically learns from Books of Ascension
 
