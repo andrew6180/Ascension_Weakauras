@@ -20,6 +20,13 @@ You can change what spell it tracks under `Trigger -> Name(s)` and `Load -> Spel
 
 Only active while in a party (change in `Load`)
 
+# Weapon Buff Missing
+this is a basic weakaura to track if you are missing a weapon buff, such as shaman weapon buffs. This is specifically setup for `Flametongue Weapon`. 
+
+You can change what spell it tracks under `Trigger -> Weapon Enchant` and `Load -> Spell Known`.
+
+You can change which weapon hand it tracks under `Trigger -> Weapon`
+
 # Combo Points
 Simple combo point tracker. Fills left to right.
 
