@@ -28,6 +28,8 @@ Click on the model to mark target with a skull
 automatically turns in the highest key or bait for high risk chests / nests. 
 destroys the nest or chest if no keys or bait to use.
 
+# Combat Time
+Timer tracking how long you've been in combat for.
 
 # Block Loot Popup
 Blocks the loot / spell rank up notifications
