@@ -18,3 +18,8 @@ I suggest going into `Load` and setting it to your character name or a specific 
 Energy bar to go with the above Combo Points WA
 
 ![energy](https://i.imgur.com/yC3wa4N.png)
+
+# Twilight Paragon
+Tracks current stacks of `Paragon of Light`
+
+Swaps to tracking `Paragon of Darkness` buff timer when the buff is active.
