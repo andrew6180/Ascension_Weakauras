@@ -13,3 +13,8 @@ I suggest going into `Load` and setting it to your character name or a specific 
 0/5 Points
 
 ![no points](https://i.imgur.com/XB8ZdgN.png)
+
+# Energy Bar
+Energy bar to go with the above Combo Points WA
+
+![energy](https://i.imgur.com/yC3wa4N.png)
