@@ -1,3 +1,5 @@
+# Requests
+If you want to request a weakaura, please open an issue or DM me on discord `Andrew#6180`.
 # Spells and Abiltiies
 See [Spells and Abilities](Spells%20and%20Abilities/)
 
