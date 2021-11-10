@@ -15,6 +15,8 @@ Same as the combat log fix addon just as a weakaura
 # Enchant Reroll Button
 Adds a toggle reroll button to the mystic enchant collection tab.
 
+Will **not** reroll using gold unless enabled under `Custom Options`
+
 supports stopping reroll on specific enchants under the `Custom Options` tab. Either link the enchant or type the name of the enchant
 
 ![Options](https://i.imgur.com/B7wQE6D.png)
