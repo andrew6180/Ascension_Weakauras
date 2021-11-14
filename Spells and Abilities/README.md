@@ -1,6 +1,21 @@
 # Spells and Abilities
 These are weakauras for specific spells, abilities, or stuff related to seplls & abilities
 
+# [Targeted AoE Tracking](Targted%20AoE%20Tracking.txt)
+![tracker](https://i.imgur.com/yH8c9WL.png)
+
+Tracks the duration of each Hailstorm / Fire Storm / Rain of Arrows instance.
+
+Disable (or re-enable) tracking per spell under `Custom Options -> Enabled`
+
+Colors for each spell can be changed under `Custom Options -> Color`
+
+Visuals can be changed under `Display` (Enable / disable icon, reposition text)
+
+Expand direction can be changed under `Group -> Grow`
+
+I suggest conditionally loading this under `Load` for your character name or using `Spell Known`
+
 # [Cooldown (Power Infuse)](Cooldown%20(Power%20Infuse).txt)
 This is a basic weakaura to track the cooldown of a spell. This is specifically setup for `Power Infusion`.
 
