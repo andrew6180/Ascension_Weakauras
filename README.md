@@ -24,6 +24,8 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 
 Also supports stopping on specific quality enchants (Uncommon / Rare / Epic / Legendary)
 
+# [Auto Invite](Auto%20Invite.txt)
+Automatically invites players if they whisper you a keyword. Default keywords are `inv, invite`. Specify more in `Custom Options -> Invite Keywords`
 # [Jandice Barov Model Check](Jandice%20Barov%20Model%20Check.txt)
 Shows a 3d model of Jandice Barov in Scholomance when targeting her, allowing easy detection of the one holding the white staff
 Click on the model to mark target with a skull
