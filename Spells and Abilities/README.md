@@ -1,7 +1,7 @@
 # Spells and Abilities
 These are weakauras for specific spells, abilities, or stuff related to seplls & abilities
 
-# [Targeted AoE Tracking](Targted%20AoE%20Tracking.txt)
+# [Targeted AoE Tracking](Targeted%20AoE%20Tracking.txt)
 ![tracker](https://i.imgur.com/yH8c9WL.png)
 
 Tracks the duration of each Hailstorm / Fire Storm / Rain of Arrows instance.
