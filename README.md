@@ -30,9 +30,13 @@ Automatically invites players if they whisper you a keyword. Default keywords ar
 Shows a 3d model of Jandice Barov in Scholomance when targeting her, allowing easy detection of the one holding the white staff
 Click on the model to mark target with a skull
 
-# [Auto turn in chests and nests](Auto%20Turn%20In%20HR%20Chests%20and%20Nests.txt)
-automatically turns in the highest key or bait for high risk chests / nests. 
-destroys the nest or chest if no keys or bait to use.
+# [Auto High Risk Interactions](Auto%20High%20Risk%20Interactions.txt)
+Automatically turns in the following High Risk interactables
+1. `Chests` Using both types of key. Destroys if no keys in inventory.
+2. `Nests` Using bait. Destroys if no bait in inventory.
+3. `Venus Flesh Traps` using scarlet flesh
+
+Will always try to turn in with the highest quality materials. ie: `Purple > Blue > Green > Destroy`
 
 # [Combat Time](Combat%20Time.txt)
 Timer tracking how long you've been in combat for.
