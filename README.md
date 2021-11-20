@@ -32,9 +32,14 @@ Click on the model to mark target with a skull
 
 # [Auto High Risk Interactions](Auto%20High%20Risk%20Interactions.txt)
 Automatically turns in the following High Risk interactables
-1. `Chests` Using both types of key. Destroys if no keys in inventory.
-2. `Nests` Using bait. Destroys if no bait in inventory.
-3. `Venus Flesh Traps` using scarlet flesh
+1. `Chests` Using both types of Key. Destroys if no keys in inventory.
+2. `Nests` Using Bait. Destroys if no bait in inventory.
+3. `Venus Flesh Traps` using Scarlet Flesh
+4. `Winter's Death` using Frostsaber Carcass
+5. `Flesh Eating Tuber` using Silithid Flesh
+6. `Stormblood` using Naga Tails
+7. `Corruptshroom` using Jadefire Meat Chunks
+8. `Jurassic Snarewort` using Flayer Stalks
 
 Will always try to turn in with the highest quality materials. ie: `Purple > Blue > Green > Destroy`
 
