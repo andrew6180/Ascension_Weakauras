@@ -67,3 +67,12 @@ Swaps to tracking `Paragon of Darkness` buff timer when the buff is active.
 
 # [Booming Thunder](Booming%20Thunder.txt)
 Tracks stacks of `Booming Thunder`. Very basic.
+
+# [Heavyweight](Heavyweight.txt)
+Tracks stacks of `Heavyweight`
+
+![stacks](https://i.imgur.com/LQs59gS.png)
+
+ Glows when `Ready to Strike` is active
+ 
+![ready to strike](https://i.imgur.com/5fBMxPx.png)
