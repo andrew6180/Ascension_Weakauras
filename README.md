@@ -3,16 +3,16 @@ If you want to request a weakaura, please open an issue or DM me on discord `And
 # [Spells and Abilities](Spells%20and%20Abilities/)
 See [Spells and Abilities](Spells%20and%20Abilities/)
 
-# [Auto Learn From Book](Auto%20Learn%20From%20Book.txt)
+# [Auto Learn From Book](Auto%20Learn%20From%20Book)
 Automatically learns from Books of Ascension
 
-# [Auto Reveal Cards](Auto%20Reveal%20Cards.txt)
+# [Auto Reveal Cards](Auto%20Reveal%20Cards)
 Automatically reveals draft mode cards
 
-# [Combat Log Fix](Combat%20Log%20Fix.txt)
+# [Combat Log Fix](Combat%20Log%20Fix)
 Same as the combat log fix addon just as a weakaura
 
-# [Enchant Reroll Button](Enchant%20Reroll%20Button.txt)
+# [Enchant Reroll Button](Enchant%20Reroll%20Button)
 Adds a toggle reroll button to the mystic enchant collection tab.
 
 Will **not** reroll using gold unless enabled under `Custom Options`
@@ -24,13 +24,13 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 
 Also supports stopping on specific quality enchants (Uncommon / Rare / Epic / Legendary)
 
-# [Auto Invite](Auto%20Invite.txt)
+# [Auto Invite](Auto%20Invite)
 Automatically invites players if they whisper you a keyword. Default keywords are `inv, invite`. Specify more in `Custom Options -> Invite Keywords`
-# [Jandice Barov Model Check](Jandice%20Barov%20Model%20Check.txt)
+# [Jandice Barov Model Check](Jandice%20Barov%20Model%20Check)
 Shows a 3d model of Jandice Barov in Scholomance when targeting her, allowing easy detection of the one holding the white staff
 Click on the model to mark target with a skull
 
-# [Auto High Risk Interactions](Auto%20High%20Risk%20Interactions.txt)
+# [Auto High Risk Interactions](Auto%20High%20Risk%20Interactions)
 Automatically turns in the following High Risk interactables
 1. `Chests` Using both types of Key. Destroys if no keys in inventory.
 2. `Nests` Using Bait. Destroys if no bait in inventory.
@@ -43,10 +43,10 @@ Automatically turns in the following High Risk interactables
 
 Will always try to turn in with the highest quality materials. ie: `Purple > Blue > Green > Destroy`
 
-# [Combat Time](Combat%20Time.txt)
+# [Combat Time](Combat%20Time)
 Timer tracking how long you've been in combat for.
 
-# [Block Loot Popup](Block%20Loot%20Popup.txt)
+# [Block Loot Popup](Block%20Loot%20Popup)
 Blocks the loot / spell rank up notifications
 
 # [Weakauras](https://github.com/Bunny67/WeakAuras-WotLK)
