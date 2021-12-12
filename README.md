@@ -46,9 +46,6 @@ Will always try to turn in with the highest quality materials. ie: `Purple > Blu
 # [Combat Time](Combat%20Time)
 Timer tracking how long you've been in combat for.
 
-# [Block Loot Popup](Block%20Loot%20Popup)
-Blocks the loot / spell rank up notifications
-
 # [Weakauras](https://github.com/Bunny67/WeakAuras-WotLK)
 [https://github.com/Bunny67/WeakAuras-WotLK](https://github.com/Bunny67/WeakAuras-WotLK)
 
