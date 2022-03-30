@@ -3,14 +3,22 @@ If you want to request a weakaura, please open an issue or DM me on discord `And
 # [Spells and Abilities](Spells%20and%20Abilities/)
 See [Spells and Abilities](Spells%20and%20Abilities/)
 
+# [Top Spell Data on Tooltip](Top%20Spell%20Data%20on%20Tooltip)
+Displays the top 5 Mystic Enchants and top 5 Spells used with the hovered spell on it's tooltip.
+
+**Top Data is supplied by Ascension's custom patches and isn't guaranteed to be up to date or super accurate.**
+
+`Hold Shift` then hover to see suggestions
+
+`Hold Shift+CTRL` then hover to see ALL suggestions (giant tooltip)
+
+![Preview](https://i.imgur.com/AYgPCcP.png)
+
 # [Auto Learn From Book](Auto%20Learn%20From%20Book)
 Automatically learns from Books of Ascension
 
 # [Auto Reveal Cards](Auto%20Reveal%20Cards)
 Automatically reveals draft mode cards
-
-# [Combat Log Fix](Combat%20Log%20Fix)
-Same as the combat log fix addon just as a weakaura
 
 # [Enchant Reroll Button](Enchant%20Reroll%20Button)
 Adds a toggle reroll button to the mystic enchant collection tab.
