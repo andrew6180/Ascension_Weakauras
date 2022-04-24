@@ -77,12 +77,12 @@ Tracks stacks of `Heavyweight`
  
 ![ready to strike](https://i.imgur.com/5fBMxPx.png)
 
-# [Self Buff Active (Omen Clearcasting)](Self%20Buff%20Active%20(Omen Clear Casting))
+# [Self Buff Active (Omen Clearcasting)](Self%20Buff%20Active%20(Omen%20Clearcasting))
 Shows an icon with a duration when a buff is active.
 
 You can change what spell it tracks under `Trigger -> Name(s)` and `Load -> Spell Known`. 
 
-# [Always Shown Self Buff Active (Omen Clearcasting)](Always%20Shown%20Self%20Buff%20Active%20(Omen Clearcasting))
+# [Always Shown Self Buff Active (Omen Clearcasting)](Always%20Shown%20Self%20Buff%20Active%20(Omen%20Clearcasting))
 Shows an icon with a duration when a buff is active
 
 Desaturates when the buff is not found.
