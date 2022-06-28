@@ -3,17 +3,6 @@ If you want to request a weakaura, please open an issue or DM me on discord `And
 # [Spells and Abilities](Spells%20and%20Abilities/)
 See [Spells and Abilities](Spells%20and%20Abilities/)
 
-# [Top Spell Data on Tooltip](Top%20Spell%20Data%20on%20Tooltip)
-Displays the top 5 Mystic Enchants and top 5 Spells used with the hovered spell on it's tooltip.
-
-**Top Data is supplied by Ascension's custom patches and isn't guaranteed to be up to date or super accurate.**
-
-`Hold Shift` then hover to see suggestions
-
-`Hold Shift+CTRL` then hover to see ALL suggestions (giant tooltip)
-
-![Preview](https://i.imgur.com/AYgPCcP.png)
-
 # [Auto Learn From Book](Auto%20Learn%20From%20Book)
 Automatically learns from Books of Ascension
 
@@ -31,6 +20,11 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 ![Reforge Button](https://i.imgur.com/Gheq2y2.png)
 
 Also supports stopping on specific quality enchants (Uncommon / Rare / Epic / Legendary)
+
+# [Prestige Talents](Prestige%20Talents)
+Automatically learns talents upon leveling up, similar to the hero architect.
+
+![Options](https://i.imgur.com/6JJhjnb.png)
 
 # [Auto Invite](Auto%20Invite)
 Automatically invites players if they whisper you a keyword. Default keywords are `inv, invite`. Specify more in `Custom Options -> Invite Keywords`
@@ -53,6 +47,17 @@ Will always try to turn in with the highest quality materials. ie: `Purple > Blu
 
 # [Combat Time](Combat%20Time)
 Timer tracking how long you've been in combat for.
+
+# [Top Spell Data on Tooltip](Top%20Spell%20Data%20on%20Tooltip)
+Displays the top 5 Mystic Enchants and top 5 Spells used with the hovered spell on it's tooltip.
+
+**Top Data is supplied by Ascension's custom patches and isn't guaranteed to be up to date or super accurate.**
+
+`Hold Shift` then hover to see suggestions
+
+`Hold Shift+CTRL` then hover to see ALL suggestions (giant tooltip)
+
+![Preview](https://i.imgur.com/AYgPCcP.png)
 
 # [Weakauras](https://github.com/Bunny67/WeakAuras-WotLK)
 [https://github.com/Bunny67/WeakAuras-WotLK](https://github.com/Bunny67/WeakAuras-WotLK)
