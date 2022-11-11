@@ -87,3 +87,6 @@ Shows an icon with a duration when a buff is active
 
 Desaturates when the buff is not found.
 
+# [Arcane Thunder Seer](Arcane%20Thunder%20Seer)
+Barebones stack tracker for `Arcane Thunder` and `Thunder Seer`. 
+
