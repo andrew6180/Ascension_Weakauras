@@ -21,9 +21,6 @@ supports stopping reroll on specific enchants under the `Custom Options` tab. Ei
 
 Also supports stopping on specific quality enchants (Uncommon / Rare / Epic / Legendary)
 
-# [Prestige Talents](Prestige%20Talents)
-Automatically learns talents upon leveling up, similar to the hero architect.
-
 ![Options](https://i.imgur.com/6JJhjnb.png)
 
 # [Auto Invite](Auto%20Invite)
